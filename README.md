@@ -147,7 +147,7 @@ For that reason, these missing values should not automatically be replaced with 
 
 ## 🖥️ Dashboard Preview
 
-![Loan Default Risk Analysis Dashboard]([assets/loan_default_risk_dashboard.png](https://github.com/Vanshika26Ramjas/loan_default_risk_analysis/blob/main/dashboard/loan_default_risk_dashboard.png))
+![Loan Default Risk Analysis Dashboard]((https://github.com/Vanshika26Ramjas/loan_default_risk_analysis/blob/main/dashboard/loan_default_risk_dashboard.png))
 
 *Interactive Power BI report showing portfolio KPIs, default-rate comparisons, the yearly trend, additional financial indicators, and credit-score segmentation.*
 
